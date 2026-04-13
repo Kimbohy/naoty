@@ -1,4 +1,4 @@
-# 🎵 SolfaHarmony
+# Naoty
 
 > Automatic harmonic annotation for Tonic Sol-fa scores — upload a PDF, get chord symbols back.
 
@@ -71,7 +71,6 @@ solfaharmony/
 │   │   └── api/
 │   │       └── client.ts        # FastAPI communication
 │   ├── package.json
-│   └── tailwind.config.ts
 └── README.md
 ```
 

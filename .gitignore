@@ -1,1 +1,4 @@
 pdf/
+.agents
+.claude
+skills-lock.json
